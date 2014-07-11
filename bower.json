@@ -1,5 +1,5 @@
 {
-  "name": "designer",
+  "name": "poligo designer",
   "private": true,
   "dependencies": {
     "platform": "Polymer/platform#master",
